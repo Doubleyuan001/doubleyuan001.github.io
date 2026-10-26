@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "id": "sticker-11",
+      "path": "assets/characters/sticker-11.jpg",
+      "character": "奶蛙",
+      "source": "https://xn--6kr28k0gz4eq33b1t7a.com/wp-content/uploads/2026/10/sticker-11.jpg",
+      "selection": "previously approved by user",
+      "rights": "publicly accessible source; no separate license verified"
+    },
+    {
+      "id": "sticker-12",
+      "path": "assets/characters/sticker-12.jpg",
+      "character": "奶蛙",
+      "source": "https://xn--6kr28k0gz4eq33b1t7a.com/wp-content/uploads/2026/10/sticker-12.jpg",
+      "selection": "previously approved by user",
+      "rights": "publicly accessible source; no separate license verified"
+    },
+    {
+      "id": "sticker-18",
+      "path": "assets/characters/sticker-18.jpg",
+      "character": "奶蛙",
+      "source": "https://xn--6kr28k0gz4eq33b1t7a.com/wp-content/uploads/2026/10/sticker-18.jpg",
+      "selection": "previously approved by user",
+      "rights": "publicly accessible source; no separate license verified"
+    }
+  ],
+  "animations": [
+    {
+      "id": "naiwa-actions",
+      "path": "assets/characters/naiwa-sheet.png",
+      "character": "黄色奶蛙、绿色眼圈",
+      "width": 1536,
+      "height": 1024,
+      "columns": 6,
+      "rows": [
+        {
+          "event": "jump-wave",
+          "y": 0,
+          "height": 280
+        },
+        {
+          "event": "laugh",
+          "y": 280,
+          "height": 232
+        },
+        {
+          "event": "fist-pump",
+          "y": 512,
+          "height": 256
+        },
+        {
+          "event": "shrug",
+          "y": 768,
+          "height": 256
+        }
+      ],
+      "durationMs": 1800,
+      "source": "AI-generated using approved sticker-11 likeness reference",
+      "status": "integrated; 390px browser celebration visually checked"
+    }
+  ]
+}
