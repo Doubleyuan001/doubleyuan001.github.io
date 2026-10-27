@@ -60,5 +60,78 @@
       "source": "AI-generated using approved sticker-11 likeness reference",
       "status": "integrated; 390px browser celebration visually checked"
     }
+  ],
+  "heroAtlas": {
+    "path": "assets/characters/heroes-laugh-v2.webp",
+    "width": 1536,
+    "height": 1024,
+    "columns": [
+      "奶蛋",
+      "奶使",
+      "奶蛙",
+      "奶龙",
+      "奶蛋使",
+      "奶蛙·神格皮肤"
+    ],
+    "rows": [
+      {
+        "y": 0,
+        "height": 278,
+        "pose": "idle"
+      },
+      {
+        "y": 278,
+        "height": 250,
+        "pose": "laugh-start"
+      },
+      {
+        "y": 528,
+        "height": 246,
+        "pose": "laugh-back"
+      },
+      {
+        "y": 774,
+        "height": 250,
+        "pose": "laugh-forward"
+      }
+    ],
+    "source": "Built-in imagegen, aligned to user-approved A/B/C and user reference collage on 2026-10-28",
+    "status": "integrated"
+  },
+  "celebrationAudio": {
+    "path": "assets/audio/celebration-laugh.mp3",
+    "source": "https://xn--6kr28k0gz4eq33b1t7a.com/wp-content/uploads/2026/10/naigua-video.mp4",
+    "sourcePage": "https://xn--6kr28k0gz4eq33b1t7a.com/naijia/",
+    "startSeconds": 3.2,
+    "durationSeconds": 2.6,
+    "usage": "short celebration laugh; publicly accessible meme source, no separate license verified"
+  },
+  "approvedHeroPortraits": [
+    {
+      "hero": "奶蛋",
+      "path": "assets/characters/hero-naidan-approved.webp",
+      "source": "https://xn--6kr28k0gz4eq33b1t7a.com/naijia/",
+      "approval": "User accepted candidate A on 2026-10-28"
+    },
+    {
+      "hero": "奶使",
+      "path": "assets/characters/hero-naishi-approved.webp",
+      "source": "https://3dgo.app/models/makerworld/3143419",
+      "approval": "User accepted candidate B on 2026-10-28"
+    },
+    {
+      "hero": "奶蛙·神格",
+      "path": "assets/characters/hero-naiwa-god-approved.webp",
+      "source": "https://bizhi.cheetahfun.com/sj/mj487701.html",
+      "approval": "User accepted candidate C on 2026-10-28"
+    },
+    {
+      "heroes": [
+        "奶龙",
+        "奶蛋使"
+      ],
+      "path": "assets/characters/hero-user-references.png",
+      "source": "User-provided reference collage; displayed using canvas source rectangles"
+    }
   ]
 }
