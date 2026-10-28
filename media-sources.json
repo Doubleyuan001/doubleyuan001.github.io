@@ -73,6 +73,27 @@
       "source": "内置图像生成；用户奶医图为身份参考，职业服装变体；2026-10-28用户全部认可",
       "selection": "approved by user 2026-10-28",
       "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
+    },
+    {
+      "id": "naishi-clear-v1",
+      "path": "assets/characters/naishi-clear-v1.webp",
+      "source": "user-provided hero reference collage",
+      "processing": "built-in image_gen faithful reconstruction / background removal; 960px alpha WebP",
+      "notes": "prompt and source investigation in docs/clear-family-assets.md; original high-resolution master not claimed"
+    },
+    {
+      "id": "naidanshi-clear-v1",
+      "path": "assets/characters/naidanshi-clear-v1.webp",
+      "source": "user-provided hero reference collage",
+      "processing": "built-in image_gen faithful reconstruction / background removal; 960px alpha WebP",
+      "notes": "prompt and source investigation in docs/clear-family-assets.md; original high-resolution master not claimed"
+    },
+    {
+      "id": "nailong-clear-v1",
+      "path": "assets/characters/nailong-clear-v1.webp",
+      "source": "https://news.sina.cn/sx/2023-10-26/detail-imzsmksq1537009.d.html",
+      "processing": "built-in image_gen faithful reconstruction / background removal; 960px alpha WebP",
+      "notes": "prompt and source investigation in docs/clear-family-assets.md; original high-resolution master not claimed"
     }
   ],
   "animations": [
