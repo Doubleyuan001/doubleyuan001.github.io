@@ -94,6 +94,14 @@
       "source": "https://news.sina.cn/sx/2023-10-26/detail-imzsmksq1537009.d.html",
       "processing": "built-in image_gen faithful reconstruction / background removal; 960px alpha WebP",
       "notes": "prompt and source investigation in docs/clear-family-assets.md; original high-resolution master not claimed"
+    },
+    {
+      "id": "naishi-approved-v2",
+      "path": "assets/characters/naishi-approved-v2.webp",
+      "source": "user original white angel reference collage",
+      "processing": "built-in image_gen faithful side-facing revision, 960px transparent WebP",
+      "selection": "user explicitly approved revised candidate 2026-10-28",
+      "notes": "new face/wing proportions approved; prompt recorded in docs/global-journey-release.md"
     }
   ],
   "animations": [
