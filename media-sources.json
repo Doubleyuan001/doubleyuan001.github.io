@@ -24,6 +24,55 @@
       "source": "https://xn--6kr28k0gz4eq33b1t7a.com/wp-content/uploads/2026/10/sticker-18.jpg",
       "selection": "previously approved by user",
       "rights": "publicly accessible source; no separate license verified"
+    },
+    {
+      "id": "naiwa-crossed-reference",
+      "path": "assets/characters/naiwa-crossed-reference.webp",
+      "source": "用户提供的奶蛙交叉手臂参考，格式压缩",
+      "selection": "approved by user 2026-10-28",
+      "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
+    },
+    {
+      "id": "naiwa-gaze-body-v1",
+      "path": "assets/characters/naiwa-gaze-body-v1.webp",
+      "source": "内置图像生成；用户认可的奶蛙身体，独立绿色眼睛由页面绘制",
+      "selection": "approved by user 2026-10-28",
+      "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
+    },
+    {
+      "id": "naidong-preview-v1",
+      "path": "assets/characters/naidong-preview-v1.webp",
+      "source": "内置图像编辑；用户奶冻参考，去文字与背景",
+      "selection": "approved by user 2026-10-28",
+      "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
+    },
+    {
+      "id": "naiyi-v1",
+      "path": "assets/characters/naiyi-v1.webp",
+      "source": "内置图像生成；用户奶医图为身份参考，职业服装变体；2026-10-28用户全部认可",
+      "selection": "approved by user 2026-10-28",
+      "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
+    },
+    {
+      "id": "naigong-v1",
+      "path": "assets/characters/naigong-v1.webp",
+      "source": "内置图像生成；用户奶医图为身份参考，职业服装变体；2026-10-28用户全部认可",
+      "selection": "approved by user 2026-10-28",
+      "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
+    },
+    {
+      "id": "naima-v1",
+      "path": "assets/characters/naima-v1.webp",
+      "source": "内置图像生成；用户奶医图为身份参考，职业服装变体；2026-10-28用户全部认可",
+      "selection": "approved by user 2026-10-28",
+      "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
+    },
+    {
+      "id": "naiyan-v1",
+      "path": "assets/characters/naiyan-v1.webp",
+      "source": "内置图像生成；用户奶医图为身份参考，职业服装变体；2026-10-28用户全部认可",
+      "selection": "approved by user 2026-10-28",
+      "designNotes": "职业角色非学校官方形象，生成提示词见项目 docs/career-family-preview.md"
     }
   ],
   "animations": [
