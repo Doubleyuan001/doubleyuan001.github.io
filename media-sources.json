@@ -211,5 +211,15 @@
       "path": "assets/characters/hero-user-references.png",
       "source": "User-provided reference collage; displayed using canvas source rectangles"
     }
+  ],
+  "music": [
+    {
+      "path": "assets/audio/nai-family-bgm-warm-v2.mp3",
+      "title": "Nai Family Campus - warm instrumental",
+      "source": "Original melody and arrangement, locally synthesized; no external recordings",
+      "approved": "User approved warm v2 on 2026-11-01",
+      "bpm": 112,
+      "seconds": 68.571
+    }
   ]
 }
